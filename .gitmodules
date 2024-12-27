@@ -1,3 +1,6 @@
 [submodule "ran-user-management"]
 	path = ran-user-management
 	url = https://github.com/dwiw96/ran-user-management.git
+[submodule "ran-product-management"]
+	path = ran-product-management
+	url = https://github.com/dwiw96/ran-product-management.git
